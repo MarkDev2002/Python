@@ -1,0 +1,5 @@
+s = str(input("Nhap chuoi : "))
+print(s)
+L = s.split(" ")
+L.sort()
+print(L)
